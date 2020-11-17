@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgcarbonell&show_icons=true&locale=en" alt="mgcarbonell" /></p>
 
-<p>Thank you to <a href="https://github.com/rahuldkjain">Rahul Jain</a> for the <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/>ReadMe</a>
+<p>Thank you to <a href="https://github.com/rahuldkjain" alt="Rahul Jain's github">Rahul Jain</a> for the <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" alt="Github profile Readme Generator">ReadMe</a>
