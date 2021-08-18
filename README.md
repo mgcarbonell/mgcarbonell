@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mgcarbonell1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mgcarbonell1" height="30" width="40" /></a>
+<a href="https://twitter.com/mgcarbonell1" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="mgcarbonell1" height="30" wdith="40"></a>
 <a href="https://linkedin.com/in/mgcarbonell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mgcarbonell" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mgcarbonell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mgcarbonell" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mgcarbonell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mgcarbonell" height="30" width="40" /></a>
