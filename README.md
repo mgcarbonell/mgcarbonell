@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario C</h1>
-<h3 align="center">A fullstack developer who's insatiably curious and passionate</h3>
+<h3 align="center">A fullstack developer who's insatiably curious</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgcarbonell&label=Profile%20views&color=0e75b6&style=flat" alt="mgcarbonell" /> </p>
 
